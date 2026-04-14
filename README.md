@@ -47,8 +47,8 @@ graph TD
 | `credentials.json` | Google Cloud service account key for Sheets manipulation (Git-ignored). |
 | `.env` | Personal API keys and Google Sheet IDs (Git-ignored). |
 | `outputs/` | Local backup directory for AI-generated text files. |
-| `HW1_Report.md` | Formal report focusing on HW1 deliverables (Pipeline components). |
-| `HW2_Report.md` | Formal report focusing on HW2 deliverables (Data persistence). |
+| `AtacanİSHAN_HW1` | Formal report focusing on HW1 deliverables (Pipeline components). |
+| `AtacanİSHAN_HW2` | Formal report focusing on HW2 deliverables (Data persistence). |
 
 ---
 
